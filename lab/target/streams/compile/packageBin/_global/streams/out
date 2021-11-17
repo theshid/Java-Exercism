@@ -1,0 +1,9 @@
+[debug] Packaging C:\Users\User\Exercism\java\lab\target\scala-2.13\lab_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Hello.class
+[debug] 	  C:\Users\User\Exercism\java\lab\target\scala-2.13\classes\Hello.class
+[debug] 	HelloWorld$.class
+[debug] 	  C:\Users\User\Exercism\java\lab\target\scala-2.13\classes\HelloWorld$.class
+[debug] 	HelloWorld.class
+[debug] 	  C:\Users\User\Exercism\java\lab\target\scala-2.13\classes\HelloWorld.class
+[debug] Done packaging.
